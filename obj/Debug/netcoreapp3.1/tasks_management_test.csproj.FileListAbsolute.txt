@@ -1,0 +1,11 @@
+C:\Users\igaw\source\repos\tasks_management_test\obj\Debug\netcoreapp3.1\tasks_management_test.csprojAssemblyReference.cache
+C:\Users\igaw\source\repos\tasks_management_test\obj\Debug\netcoreapp3.1\tasks_management_test.AssemblyInfoInputs.cache
+C:\Users\igaw\source\repos\tasks_management_test\obj\Debug\netcoreapp3.1\tasks_management_test.AssemblyInfo.cs
+C:\Users\igaw\source\repos\tasks_management_test\bin\Debug\netcoreapp3.1\tasks_management_test.exe
+C:\Users\igaw\source\repos\tasks_management_test\bin\Debug\netcoreapp3.1\tasks_management_test.deps.json
+C:\Users\igaw\source\repos\tasks_management_test\bin\Debug\netcoreapp3.1\tasks_management_test.runtimeconfig.json
+C:\Users\igaw\source\repos\tasks_management_test\bin\Debug\netcoreapp3.1\tasks_management_test.runtimeconfig.dev.json
+C:\Users\igaw\source\repos\tasks_management_test\bin\Debug\netcoreapp3.1\tasks_management_test.dll
+C:\Users\igaw\source\repos\tasks_management_test\bin\Debug\netcoreapp3.1\tasks_management_test.pdb
+C:\Users\igaw\source\repos\tasks_management_test\obj\Debug\netcoreapp3.1\tasks_management_test.dll
+C:\Users\igaw\source\repos\tasks_management_test\obj\Debug\netcoreapp3.1\tasks_management_test.pdb
